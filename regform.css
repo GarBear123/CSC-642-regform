@@ -1,0 +1,40 @@
+head{
+	font-family: sans-serif;
+}
+body{
+	font-family: sans-serif;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.reg-control{
+	max-width: 200px;
+}
+.addr-length{
+	width: 700px;
+}
+.form-control{
+	width: 400px;
+}
+.drop-control{
+	max-width:150px;
+}
+.email-control{
+	max-width:300px;
+}
+.phone-control{
+	max-width: 150px;
+}
+#forms{
+	text-align: right;
+	vertical-align: left;
+}
+.state-max{
+	max-width:75px;
+}
+.zip-max{
+	max-width:90px;
+}
+.terms-align{
+	vertical-align: middle;
+}
